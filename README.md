@@ -6,4 +6,5 @@ Please note that it is forbidden to use this typeface for your commercial projec
 Por favor, tenha em mente que é proibido usar essa font nos seus projetos comerciais.<br>
 
 <h3><b>LICENSING</b></h3><br>
+<hr>
 The typeface is licensed to registered third-party developers for the design and development of applications for iOS, macOS and watchOS
