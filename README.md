@@ -1,6 +1,6 @@
 # SanFranscisco-Font-Collection
-This repository contains all Apple-SanFrancisco(SF-PRO-TEXT-ROUNDED-COMPACT-MONO) font faces
-Este repositorio contém todas as fontes da familia SanFrancisco(SF--PRO-TEXT-ROUNDED-COMPACT-MONO)
+This repository contains all Apple-SanFrancisco(SF--> PRO-TEXT-ROUNDED-COMPACT-MONO) font faces
+Este repositorio contém todas as fontes da familia SanFrancisco(SF--> PRO-TEXT-ROUNDED-COMPACT-MONO)
 
 Please note that it is forbidden to use this typeface for your commercial project.
 Por favor, tenha em mente que é proibido usar essa font nos seus projetos comerciais
